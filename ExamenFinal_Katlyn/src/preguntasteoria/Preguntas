@@ -1,0 +1,72 @@
+
+Parte 1. Desarollo téorico. 12 pts
+
+Lista de Preguntas Seleccione 4 de ellas unicamente.
+
+1. [3 pts] ¿Qué es la herencia en Java y cómo se implementa? 
+Proporcione un ejemplo práctico de una clase que hereda de otra, 
+y explica la relación entre la clase padre e hija.
+
+R/ La herencia es una superclase de la cual, se heredan como bien dice heredan
+atributos generales a sus hijas. Se implementa extendiendo los atributos hacía 
+las clases.
+Un ejemplo claro de herencia es cuando tenemos una clase madre llamada "Persona"
+con atributos como nombre,apellidos, ID y dirección todas las personas lo presen
+tan, de ahí partimos a las clases heredadas llamadas "Estudiante" y "Profesor"
+en las cuales solo extienden esa infomarmación general y solo se agregan informa
+ción mas especifica para cada clase.
+
+
+
+
+2.[3 pts] Explique el concepto de polimorfismo en Java. 
+Proporcione un ejemplo concreto utilizando métodos y explique cómo 
+el polimorfismo facilita el diseño de programas flexibles y extensibles.
+
+R/El polimorfismo es basicamente muy parecido a la herencia, pero en este caso
+los objetos llamados seran flexibles en su comportamiento, pues buscaran la mane
+ra de comportarse como deberían en diferentes casos.
+El polimorfismo en importante para el diseño de programas flexibles y extensibles
+ya que, ayuda a la reutilización de codigo y además a mejorar la calidad del 
+codigo.
+
+
+
+
+3.[3 pts] ¿Cuál es el propósito de una clase abstracta en Java? 
+Proporciona un ejemplo de una clase abstracta y explica cómo se diferencia
+ de una clase regular.
+
+R/ La clase abstracta tiene como proposito ser un molde para las otras clases
+heredas puedan utilizar los metodos abstractos a manera que pueda usarse de dife
+rentes maneras.
+
+
+
+
+4.[3 pts] Describa cómo se pueden leer y escribir datos en archivos en Java. 
+Menciona la importancia de manejar excepciones en este contexto.
+
+
+R/
+
+
+
+5.[3 pts] Explica el concepto de recursividad en Java. 
+Proporciona un ejemplo de una función recursiva y discute cómo funciona,
+ así como las precauciones que deben tomarse al utilizar la recursividad.
+
+
+R/ Es una clase que como su nombre lo dice, es recursiva, es decir se llama a si
+misma. Ejemplo, funciona en problemas matematicos en las cuales se tiene una se
+cuencia, en termina cuando se llega a cero.
+
+
+
+6.[3 pts] ¿Cómo se gestiona dinámicamente la memoria en Java? 
+Explica cómo Java aborda la liberación de memoria.
+
+
+R/
+
+
